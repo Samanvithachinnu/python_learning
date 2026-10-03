@@ -202,7 +202,7 @@ print(4 in f)
 print(a := 4)
 print(a)
 
-#ternary operator 
+#ternary operator
 a = 5 if 10 > 20 else 6 
 print(a)
 a = [1,2,3] if 5 < 10 else (1,2,3)
